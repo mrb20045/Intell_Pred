@@ -26,16 +26,15 @@
 
 	     features. It takes protein/DNA FASTA sequences as input, and generate  output
 
-	     about  the  potential of a protein  to  be involved  in  learning or memmory.
+	     about  the  potential of a protein  to  be involved  in  learning or  memory.
 
 	     Intell_Pred  depends on  two programs  (libsvm and iLearn)  and can be run on
 
 	     Linux. Also,  it  use  TransDecoder  software  to convert  the  DNA sequences
 
-	     (mRNA transcripts that converted to DNA) to protein. Morover, Intell_Pre only 
+	     (mRNA transcripts that converted to DNA) to protein. Morover, Intell_Pred only 
 
-	        
-	     consider protein seqeunces larger than 60 amino acides.
+	     consider protein sequences larger than 60 amino acids.
 	    
 	     
 
