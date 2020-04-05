@@ -32,9 +32,9 @@
 
 	     Linux. Also,  it  use  TransDecoder  software  to convert  the  DNA sequences
 
-	     (mRNA transcripts that converted to DNA) to protein. Morover, Intell_Pred only 
+	     (mRNA transcripts that converted to DNA)  to protein.  Moreover,  Intell_Pred  
 
-	     consider protein sequences larger than 60 amino acids.
+	     only consider protein sequences larger than 60 amino acids.
 	    
 	     
 
@@ -126,4 +126,3 @@ Intelligence	3		3		3
 Learning	2		2		0
 Memory		3		2		2
 _____________________________________________________________
-
