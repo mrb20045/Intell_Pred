@@ -21,8 +21,6 @@ rm *.tar
 cd ..
 
 
-rm  $dir/Files.tar
-
 cd $dir/Scripts/libsvm-3.22
 
 
