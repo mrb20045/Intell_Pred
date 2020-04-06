@@ -20,21 +20,23 @@
 
 1) Introduction
 	     
-	     Intell_Pred is  a Support  Vector  Machine-based  classifier  to predict  the  
+             Intell_Pred is  a Support  Vector  Machine-based  classifier  to predict  the  
 	     
 	     intelligence  relate  proteins  based  on  12669 meaningful protein  sequence
 
 	     features. It takes protein/DNA FASTA sequences as input, and generate  output
 
-	     about  the  potential of a protein  to  be involved  in  learning or  memory.
-
-	     Intell_Pred  depends on  two programs  (libsvm and iLearn)  and can be run on
-
-	     Linux. Also,  it  use  TransDecoder  software  to convert  the  DNA sequences
-
-	     (mRNA transcripts that converted to DNA)  to protein.  Moreover,  Intell_Pred  
-
-	     only consider protein sequences larger than 60 amino acids.
+	     about  the  potential of a protein  to  be involved  in  learning or  memory,
+	     
+	     which are the most important components of intelligence. Intell_Pred  depends
+	     
+	     on  two programs  (libsvm and iLearn)  and can be run on Linux. Also, it  use
+	     
+	     TransDecoder  software  to convert  the  DNA sequences (mRNA transcripts that
+	     
+	     converted to DNA)  to protein.  Moreover,  Intell_Pred  only consider protein
+	     
+	     sequences larger than 60 amino acids.
 	    
 	     
 
